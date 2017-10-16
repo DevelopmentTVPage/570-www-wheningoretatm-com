@@ -1,0 +1,15 @@
+{
+    "title": "LeMat",
+    "baseURL": "https:\/\/www.wheningoretatm.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1759035",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "wheningoretatm.com"
+    }
+}
