@@ -1,9 +1,9 @@
 {
-    "title": "sdfgsdfg",
-    "description": null,
+    "title": "Cool",
+    "description": "",
     "referenceId": null,
     "date_created": "1508175206",
-    "date_modified": "1508175206",
+    "date_modified": "1508178681",
     "tags": null,
     "sourceId": null,
     "status": "pending",
@@ -14,6 +14,10 @@
     "titleTextEncoded": "sdfgsdfg",
     "category": null,
     "duration": null,
-    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery"
+    },
     "transcripts": null
 }
